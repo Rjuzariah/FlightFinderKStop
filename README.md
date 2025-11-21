@@ -1,6 +1,7 @@
-✈️ FlightFinderKstop
+FlightFinderKstop
 
 🛠️ Setup Instructions
+
 1️⃣ Create a virtual environment
 
     ````bash
@@ -13,6 +14,14 @@
     ````bash
     source venv/bin/activate   # macOS/Linux
     venv\Scripts\activate      # Windows
+    ````
+
+3️⃣ Install project dependencies
+    This project requires pytest for running unit tests.
+    Install it with:
+
+    ````bash
+    pip install pytest
     ````
 
 3️⃣ Running the Application
