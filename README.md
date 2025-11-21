@@ -2,6 +2,8 @@ FlightFinderKstop
 
 🛠️ Setup Instructions
 
+Make sure you already have Python installed on your laptop.
+
 1️⃣ Create a virtual environment
 
     ````bash
