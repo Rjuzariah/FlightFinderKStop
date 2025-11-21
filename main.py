@@ -1,4 +1,4 @@
-from solution import find_cheapest_price, load_data
+from utils import find_cheapest_price, load_data
 
 
 def main():
