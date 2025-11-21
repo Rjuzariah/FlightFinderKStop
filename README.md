@@ -24,7 +24,7 @@ FlightFinderKstop
     pip install pytest
     ````
 
-3️⃣ Running the Application
+4️⃣ Running the Application
 
     The program loads data automatically from flight.json.
 
@@ -33,7 +33,7 @@ FlightFinderKstop
     ````
 
 
-4️⃣ Running the test case
+5️⃣ Running the test case
 
     ````bash
     pytest -v
