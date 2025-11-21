@@ -16,12 +16,9 @@ FlightFinderKstop
     venv\Scripts\activate      # Windows
     ````
 
-3️⃣ Install project dependencies
-    This project requires pytest for running unit tests.
-    Install it with:
-
-    ````bash
-    pip install pytest
+3️⃣ Install requirements
+     ````bash
+    pip install -r requirements.txt
     ````
 
 4️⃣ Running the Application
