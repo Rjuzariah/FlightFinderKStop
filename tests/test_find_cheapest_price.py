@@ -1,4 +1,4 @@
-from solution import find_cheapest_price
+from utils import find_cheapest_price
 
 def test_simple_path():
     sample_data = {
