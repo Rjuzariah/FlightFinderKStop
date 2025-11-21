@@ -32,7 +32,7 @@ This project is a Python console application with full unit test coverage using 
     venv\Scripts\activate      # Windows
     ````
 
-▶️ Running the Application
+3️⃣ Running the Application
 
     The program loads data automatically from flight.json.
 
@@ -41,7 +41,7 @@ This project is a Python console application with full unit test coverage using 
     ````
 
 
-▶️ Running the test case
+4️⃣ Running the test case
 
     ````bash
     pytest -v
