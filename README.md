@@ -19,7 +19,8 @@ Make sure you already have Python installed on your laptop.
     ````
 
 3️⃣ Install requirements
-     ````bash
+
+    ````bash
     pip install -r requirements.txt
     ````
 
